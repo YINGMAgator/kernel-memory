@@ -1,0 +1,6 @@
+readme
+
+1 commit: first karma try
+1 it can run, but not converge to the right solution
+1 this version of kaarma use list instead of array as the training samples
+2 it has the code for separate positive and negative samples
